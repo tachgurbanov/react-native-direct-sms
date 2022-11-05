@@ -1,13 +1,13 @@
 {
   "name": "react-native-direct-sms",
   "title": "React Native Direct Sms",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This module allows send sms without user interaction",
-  "main": "index.js",
+  "main": "index.ts",
   "files": [
     "README.md",
     "android",
-    "index.js",
+    "index.ts",
     "ios",
     "react-native-direct-sms.podspec"
   ],
@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vitobreda/react-native-direct-sms",
-    "baseUrl": "https://github.com/vitobreda/react-native-direct-sms"
+    "url": "git+https://github.com/tachgurbanov/react-native-direct-sms",
+    "baseUrl": "https://github.com/tachgurbanov/react-native-direct-sms"
   },
   "keywords": [
     "react-native"
